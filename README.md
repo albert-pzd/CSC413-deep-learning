@@ -1,2 +1,2 @@
 # CSC413-deep-learning
-The programming contents for CSC413.
+The programming contents for csc413.
